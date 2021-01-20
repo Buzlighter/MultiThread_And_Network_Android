@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+ <item
+     android:id="@+id/action_add_pic"
+     app:showAsAction="always"
+     android:icon="@drawable/baseline_add_photo_alternate_black_24"
+     android:title="@string/add_picture"
+  />
+ <item
+  android:id="@+id/action_add_text"
+  app:showAsAction="ifRoom"
+  android:icon="@drawable/baseline_post_add_black_24"
+  android:title="@string/add_text"/>
+
+</menu>

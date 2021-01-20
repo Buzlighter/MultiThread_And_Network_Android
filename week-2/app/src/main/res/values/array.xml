@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_companies">
+        <item>@drawable/amazon</item>
+        <item>@drawable/apple</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/ford</item>
+        <item>@drawable/google</item>
+        <item>@drawable/hp</item>
+        <item>@drawable/intel</item>
+        <item>@drawable/mastercard</item>
+        <item>@drawable/nvidia</item>
+        <item>@drawable/samsung</item>
+        <item>@drawable/sony</item>
+        <item>@drawable/toyota</item>
+        <item>@drawable/walmart</item>
+    </array>
+</resources>

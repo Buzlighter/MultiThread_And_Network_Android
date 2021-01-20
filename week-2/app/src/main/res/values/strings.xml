@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coursera_task</string>
+    <string name="add_picture">add picture</string>
+    <string name="add_text">add_text</string>
+</resources>
