@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coursera_task</string>
+    <string name="download_file">DOWNLOAD FILE</string>
+    <string name="set_image">SET IMAGE</string>
+    <string name="url">Url</string>
+    <string name="channel_name">notification_channel</string>
+</resources>
