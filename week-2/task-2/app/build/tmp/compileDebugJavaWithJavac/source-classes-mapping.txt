@@ -1,8 +1,0 @@
-com/example/coursera_task/DownloadImage.java
- com.example.coursera_task.DownloadImage
-com/example/coursera_task/MainActivity.java
- com.example.coursera_task.MainActivity
-com/example/coursera_task/MyBroadCastReceiver.java
- com.example.coursera_task.MyBroadCastReceiver
-com/example/coursera_task/BuildConfig.java
- com.example.coursera_task.BuildConfig
